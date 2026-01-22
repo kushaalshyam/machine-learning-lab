@@ -1,0 +1,12 @@
+numpy 
+pandas 
+matplotlib 
+seaborn 
+scipy 
+scikit-learn 
+xgboost
+torch
+torchvision 
+torchaudio 
+tensorflow
+keras
