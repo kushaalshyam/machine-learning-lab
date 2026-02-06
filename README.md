@@ -67,8 +67,8 @@ If this repository includes a `requirements.txt`, install from it. If not, creat
 
 1. Clone the repository
    ```
-   git clone https://github.com/techieRahul17/Machine_LearningLabSem6.git
-   cd Machine_LearningLabSem6
+   git clone https://github.com/kushaalshyam/machine-learning-lab
+   cd machine-learning-lab
    ```
 
 2. Create and activate a virtual environment (venv example)
